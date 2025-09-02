@@ -1,1 +1,2 @@
 # Streamlining-Ticket-Assignment-for-Efficient-Support-Operations
+This repository provides a ServiceNow update set that automates and optimizes ticket assignment. It uses configuration changes, Flow Designer logic, and assignment rules to route tickets to the right groups or individuals. The solution reduces manual work, speeds up response times, and helps improve SLA compliance. Support teams benefit from less overhead, while end users enjoy quicker issue resolution and a smoother experience.
